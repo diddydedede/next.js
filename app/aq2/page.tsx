@@ -66,7 +66,7 @@ d. When would you choose to use Edge Functions, Serverless Functions, or Edge Mi
 e. Imagine a customer writes in, requesting help with the following question. Write a first response for triaging this case and helping them solve the issue:<br />
 "Hi there,<br />
 
-I keep getting a build error from Vercel saying that “/vercel/path0/dist/routes-manifest.json” couldn’t be found. Can you help me debug this?? I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. Your docs aren’t helpful."<br /><br />
+I keep getting a build error from Vercel saying that "/vercel/path0/dist/routes-manifest.json" couldn't be found. Can you help me debug this?? I’m so frustrated. I've been trying to make this work for hours and I just can’t figure it out. Your docs aren’t helpful."<br /><br />
 
 Additional Questions:<br />
 a. What do you think is one of the most common problems which customers ask Vercel for help with?<br />

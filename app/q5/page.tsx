@@ -56,7 +56,7 @@ export default function Home() {
             <br /><br />
             Hi there,<br />
 
-I keep getting a build error from Vercel saying that “/vercel/path0/dist/routes-manifest.json” couldn’t be found. Can you help me debug this?? I’m so frustrated. I’ve been trying to make this work for hours and I just can’t figure it out. Your docs aren’t helpful.<br /><br />
+I keep getting a build error from Vercel saying that "/vercel/path0/dist/routes-manifest.json" couldn't be found. Can you help me debug this?? I'm so frustrated. I've been trying to make this work for hours and I just can't figure it out. Your docs aren't helpful.<br /><br />
             Answer: <br />Hi [Customer's Name],<br /><br />
 
 I'm sorry to hear that you're experiencing issues with your build and that you've found our documentation unhelpful. I'm here to assist you in resolving this problem.<br /><br />
