@@ -64,7 +64,7 @@ Next.js and Gatsby are both popular React-based frameworks for building modern w
 
 3. Plugin ecosystem: Gatsby has an extensive plugin ecosystem that allows developers to easily extend functionality and integrate various data sources. Next.js has a smaller plugin ecosystem but supports a wide range of npm packages and middleware for customization.<br />
 
-4. Performance: Both frameworks prioritize performance, but Gatsby's pre-built static pages generally result in faster initial page loads. Next.js offers the flexibility of hybrid rendering, allowing developers to optimize performance based on specific use cases.<br />
+4. Performance: Both frameworks prioritize performance, but Gatsby&apos;s pre-built static pages generally result in faster initial page loads. Next.js offers the flexibility of hybrid rendering, allowing developers to optimize performance based on specific use cases.<br />
 
 5. Use cases: Next.js is well-suited for applications that require real-time data, server-side rendering, or a mix of static and dynamic content. Gatsby is ideal for content-heavy websites, blogs, and marketing sites that can benefit from the speed and security of pre-built static pages.<br />
           </p>
