@@ -56,12 +56,12 @@ export default function Home() {
             <br /><br />
             Hi there,<br />
 
-I keep getting a build error from Vercel saying that "/vercel/path0/dist/routes-manifest.json" couldn't be found. Can you help me debug this?? I'm so frustrated. I've been trying to make this work for hours and I just can't figure it out. Your docs aren't helpful.<br /><br />
-            Answer: <br />Hi [Customer's Name],<br /><br />
+I keep getting a build error from Vercel saying that &quot;/vercel/path0/dist/routes-manifest.json&quot; couldn&apos;t be found. Can you help me debug this?? I&apos;m so frustrated. I&apos;ve been trying to make this work for hours and I just can&apos;t figure it out. Your docs aren&apos;t helpful.<br /><br />
+            Answer: <br />Hi [Customer&apos;s Name],<br /><br />
 
-I'm sorry to hear that you're experiencing issues with your build and that you've found our documentation unhelpful. I'm here to assist you in resolving this problem.<br /><br />
+I&apos;m sorry to hear that you&apos;re experiencing issues with your build and that you&apos;ve found our documentation unhelpful. I&apos;m here to assist you in resolving this problem.<br /><br />
 
-The error message you're encountering indicates that the routes-manifest.json file is missing or not being generated correctly during the build process. To help you troubleshoot this issue, I'll need some additional information about your project setup:<br />
+The error message you&apos;re encountering indicates that the routes-manifest.json file is missing or not being generated correctly during the build process. To help you troubleshoot this issue, I&apos;ll need some additional information about your project setup:<br />
 
 1. Can you please provide the repository URL for your project so I can take a closer look at your configuration and source code? If the repository is private, please grant access to my account (username: VercelSupport).<br />
 
@@ -69,9 +69,9 @@ The error message you're encountering indicates that the routes-manifest.json fi
 
 3. Have you made any recent changes to your project that might have led to this issue?<br />
 
-4. Can you share any relevant logs or error messages from your build output? You can find them in the Vercel dashboard under the "Deployments" tab.<br /><br />
+4. Can you share any relevant logs or error messages from your build output? You can find them in the Vercel dashboard under the &quot;Deployments&quot; tab.<br /><br />
 
-Please provide the requested information, and I'll do my best to help you resolve this issue as quickly as possible. In the meantime, you can also review our <a href="https://vercel.com/guides" className="group rounded-lg border border-transparent px-1 py-1 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30" rel="noopener noreferrer">Next.js Troubleshooting Guide</a> for any additional insights.<br /><br />
+Please provide the requested information, and I&apos;ll do my best to help you resolve this issue as quickly as possible. In the meantime, you can also review our <a href="https://vercel.com/guides" className="group rounded-lg border border-transparent px-1 py-1 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30" rel="noopener noreferrer">Next.js Troubleshooting Guide</a> for any additional insights.<br /><br />
 
 Thank you for your patience, and I look forward to helping you get your project back on track!<br /><br />
 

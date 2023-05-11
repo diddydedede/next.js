@@ -56,7 +56,7 @@ export default function Home() {
             <br /><br />
             Answer: <br />For the question, I would like to specifically address the clarity of the exercise instructions.<br /><br />
 
-The main five questions and the additional two questions in the exercise can be confusing as they seem to be grouped together. To improve the exercise, it would be helpful to separate these questions and make the relationship between them clearer. Here's an example of how the questions could be restructured:<br /><br />
+The main five questions and the additional two questions in the exercise can be confusing as they seem to be grouped together. To improve the exercise, it would be helpful to separate these questions and make the relationship between them clearer. Here&apos;s an example of how the questions could be restructured:<br /><br />
 
 Main Questions:<br />
 a. What do you want to learn or do more of at work?<br />
@@ -64,9 +64,9 @@ b. Describe how you solved a challenge that one of your previous support teams f
 c. How would you compare Next.js with another framework? Feel free to compare with a framework of your choice.<br />
 d. When would you choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?<br />
 e. Imagine a customer writes in, requesting help with the following question. Write a first response for triaging this case and helping them solve the issue:<br />
-"Hi there,<br />
+&quot;Hi there,<br />
 
-I keep getting a build error from Vercel saying that "/vercel/path0/dist/routes-manifest.json" couldn't be found. Can you help me debug this?? I’m so frustrated. I've been trying to make this work for hours and I just can’t figure it out. Your docs aren’t helpful."<br /><br />
+I keep getting a build error from Vercel saying that &quot;/vercel/path0/dist/routes-manifest.json&quot; couldn`&apos;t be found. Can you help me debug this?? I`&apos;m so frustrated. I`&apos;ve been trying to make this work for hours and I just can`&apos;t figure it out. Your docs aren`&apos;t helpful.&quot;<br /><br />
 
 Additional Questions:<br />
 a. What do you think is one of the most common problems which customers ask Vercel for help with?<br />
@@ -75,7 +75,7 @@ b. How would you help customers to overcome common problems, short-term and long
 Feedback on the Exercise:<br />
 a. How could we improve or alter this familiarization exercise?<br /><br />
 
-By clearly separating the main questions, additional questions, and the feedback request, candidates will have a better understanding of the tasks and expectations in the exercise. This will lead to more organized and focused responses, allowing you to better evaluate the candidate's skills and problem-solving abilities.
+By clearly separating the main questions, additional questions, and the feedback request, candidates will have a better understanding of the tasks and expectations in the exercise. This will lead to more organized and focused responses, allowing you to better evaluate the candidate&apos;s skills and problem-solving abilities.
           </p>
         </Link><br />
 
